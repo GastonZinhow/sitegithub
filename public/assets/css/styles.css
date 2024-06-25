@@ -10,17 +10,17 @@ html {
     font-size: 1em;
 }
 
-header{
+.header{
     display: flex;
-    justify-content: flex-end;
+    flex-wrap: wrap;
+    justify-content: space-between;
     align-items: center;
 }
+
 ul{
     list-style: none;
 }
-ul li{
-    padding: 0px 20px;
-}
+
 h2 a{
     color: black;
 
@@ -44,12 +44,14 @@ hr{
 p{
     padding: 4px;
 }
+
 .repoh4{
     color: blue;
 }
 #fotoperfil{
-    width: 80%;
+    width: 60%;
     border-radius: 50%;
+    justify-content: center;
 }
 #carouselExampleIndicators{
     width: 80%;
