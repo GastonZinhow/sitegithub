@@ -3,7 +3,7 @@
     "json-server": "^0.17.4"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "json-server --watch db/db.json -s ./public"
   },
   "dependencies": {
     "express": "^4.19.2"

@@ -13,6 +13,12 @@
             "urlFoto": "https://media.discordapp.net/attachments/1099329504905801800/1254947623375208540/bruna.png?ex=667b588d&is=667a070d&hm=f125ce29e19c5932f8c854c358545840df267978fb64da83f9ab547977b90459&=&format=webp&quality=lossless&width=350&height=350",
             "nomeColega": "Bruna",
             "urlColega": "https://github.com/Brunamark"
+        },
+        {
+            "id": 2,
+            "urlFoto": "https://media.discordapp.net/attachments/1099329504905801800/1254947635102613647/ana20helena.png?ex=667b5890&is=667a0710&hm=41a50c7dedf3f8dae96c1e4cfa69f0f7fc2a6f85dcb3ae29a6642a96e796aead&=&format=webp&quality=lossless",
+            "nomeColega": "Ana Helena",
+            "urlColega": "https://github.com/anahelx"
         }
     ]
 }
